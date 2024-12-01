@@ -24,4 +24,6 @@ cd web
 npm run ...
 ```
 
+## Useful links
 
+- [Deploy Custom Python Serving Runtime with InferenceService](https://kserve.github.io/website/latest/modelserving/v1beta1/custom/custom_model/#deploy-locally-and-test)
